@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JRAW-1.1.01" type="kotlin.js">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/JRAW-1.1.0.jar!/" />
+    </SOURCES>
+  </library>
+</component>
